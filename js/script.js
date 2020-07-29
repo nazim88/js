@@ -285,7 +285,7 @@ function arrayBinary(number){
   console.log(arrayBinary('1011')); // retourne le resulat
   
   
-//******************A Needle in the Haystack*************
+//********************************************A Needle in the Haystack**********************************************
 function findNeedle(haystack) {
   return "found the needle at position " + haystack.indexOf("needle");// renvoi l'index de du mot rechercher
 }
